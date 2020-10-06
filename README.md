@@ -1,2 +1,2 @@
 # Projetos-Implementando-Pilha
-Vários exercícios implementando a estrutura de dados pilha
+Implementando a estrutura de dados pilha
